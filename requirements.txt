@@ -1,0 +1,5 @@
+tweepy
+kafka-python
+pymongo
+airflow
+docker
