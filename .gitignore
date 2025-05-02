@@ -1,0 +1,23 @@
+# Byte-compiled files
+__pycache__/
+*.py[cod]
+*.ipynb_checkpoints
+
+# Output directories
+output/
+*.log
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Environment files
+.env
+.venv
+*.egg-info/
+
+# System-specific
+.DS_Store
+Thumbs.db
+
+# Spark temp
+*.crc
