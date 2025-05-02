@@ -1,0 +1,20 @@
+ipl-sentiment-analysis/
+├── data/
+│   ├── IPL_2020_tweets.csv
+│   ├── IPL_2021_tweets.csv
+│   └── IPL_2022_tweets.csv
+│
+├── output/
+│   └── ipl_sentiment_final/      # Spark output part file
+│
+├── notebooks/
+│   └── ipl_sentiment_dashboard.ipynb
+│
+├── visualizations/
+│   ├── sentiment_bar_chart.png
+│   └── sentiment_pie_chart.png
+│
+├── .gitignore
+├── LICENSE
+├── requirements.txt
+└── README.md
